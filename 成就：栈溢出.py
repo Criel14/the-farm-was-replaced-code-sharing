@@ -1,0 +1,4 @@
+def fun():
+	fun()
+	
+fun()
